@@ -1,0 +1,41 @@
+.tab{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#E-store{
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: rgba(20, 67, 161, 0.844);
+    color: white;
+}
+
+img{
+    height: 200px;
+    width: auto;
+    border: solid 3px black;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 230px;
+    height: 350px;
+}
+
+.p-main{
+ margin-bottom: -7px;
+}
+
+h4{
+    margin-bottom: -7px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(20, 67, 161, 0.844);
+    color: white;
+    padding: 10px;
+    margin-top: 180px;
+}
